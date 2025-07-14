@@ -8,13 +8,11 @@ Each file explores a specific concept in a clean, structured, and easy-to-unders
 
 ## 📁 Project Structure
 
-| File Name   | Description                                                                        |
-| ----------- | ---------------------------------------------------------------------------------- |
-| `Class1.cs` | Covers basic syntax, data types, and console output.                               |
-| `Class2.cs` | Demonstrates control structures like `if`, `switch`, loops, etc.                   |
-| `Class3.cs` | Introduces object-oriented programming: classes, objects, methods, and properties. |
-
-> ✏️ _You can rename these based on your actual file/class names._
+| File Name              | Description                                                                 |
+|------------------------|-----------------------------------------------------------------------------|
+| `ConsoleApplication.cs`| Basic C# syntax and structure — a simple "Hello World"-style starter app.   |
+| `Library.cs`           | A Library Management System demonstrating object-oriented principles like abstraction, inheritance, and interface usage. |
+| `Calculator.cs`        | A robust console calculator using control structures, exception handling, and user input. |
 
 ---
 
